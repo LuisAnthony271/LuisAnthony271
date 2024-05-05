@@ -8,14 +8,17 @@
 
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
 
+
+  
+[![Luis Anthony Stats](https://github-readme-stats.vercel.app/api?username=LuisAnthony271)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Luis Anthony Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAnthony271)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Conecte-se comigo:
 <br>
 - <a href="https://www.facebook.com/Lhuyz.junior/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-logo"/><a/>
 
 - <a href="https://www.instagram.com/luis.coelho.eng/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"/><a/>
 <br>
-  
-[![Luis Anthony Stats](https://github-readme-stats.vercel.app/api?username=LuisAnthony271)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Luis Anthony Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAnthony271)](https://github.com/anuraghazra/github-readme-stats)
